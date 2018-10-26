@@ -1,4 +1,4 @@
-# Vegan lunch plans by pull request
+# Vegan lunch plans in Stockholm by pull request
 
 ## Full experience
 
