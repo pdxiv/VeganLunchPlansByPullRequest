@@ -5,8 +5,8 @@
 Name | Address | Web site | Description
 ---- | ------- | -------- | -----------
 Saravanaa Bhavan | [Kista torg 3](https://www.google.com/maps/place/59°24'06.5"N+17°56'34.6"E) | <https://www.saravanaabhavan.se> | Traditional south indian vegetarian and vegan dishes. Buffet during lunch.
-Lao Wai | [Luntmakargatan 74](https://www.google.com/maps/place/59°20'31.4"N+18°03'32.6"E) | <http://laowai.se/> | Authentic Sichuanese and Taiwanese vegan dishes with a rotating two-week recurring lunch menu.
-Martins Gröna | [Regeringsgatan 91](https://www.google.com/maps/place/59°20'16.6"N+18°04'01.4"E) | <http://www.martinsgrona.com/> | Both vegetarian and vegan dishes in a "husmankost" style, with a recurring weekly lunch menu.
+Lao Wai | [Luntmakargatan 74](https://www.google.com/maps/place/59°20'31.4"N+18°03'32.6"E) | <http://laowai.se> | Authentic Sichuanese and Taiwanese vegan dishes with a rotating two-week recurring lunch menu.
+Martins Gröna | [Regeringsgatan 91](https://www.google.com/maps/place/59°20'16.6"N+18°04'01.4"E) | <http://www.martinsgrona.com> | Both vegetarian and vegan dishes in a "husmankost" style, with a recurring weekly lunch menu.
 
 ## Honorable mentions
 
