@@ -20,6 +20,7 @@ These places have meaningful vegan-compatible options available.
 
 Name | Location | Web site | Description
 ---- | -------- | -------- | -----------
+Bastard Burgers | | <https://bastardburgers.se> | Has a separate vegan menu with a lot of options
 Tokyo Diner | [Hötorgshallen, Sergelgatan](https://www.google.com/maps/place/59°20'03.5"N+18°03'45.7"E/@59.3343125,18.0604988,17z) | <https://www.hotorgshallen.se/handlare/tokyo-diner> | Has good vegan sushi.
 Tabbouli | [Regeringsgatan 70](https://www.google.com/maps/place/59°20'12.5"N+18°04'03.7"E/@59.3368125,18.0654988,17z) | http://www.tabbouli.eu | There's usually something suitable to choose from during the lunch buffet.
 MAX | All over the place | https://www.max.se | Common hamburger chain with a few vegan options.
